@@ -94,13 +94,7 @@ header .logo{
 header .logo span{
     color: #ff0157;
 }
-header p{
-    color: green;
-    font-weight: 800;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 
 header .navigation{
     position: relative;
